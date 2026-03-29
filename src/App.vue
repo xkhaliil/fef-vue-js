@@ -36,6 +36,7 @@ function reset() {
       <div>
         <span class="text-2xl">Counter: {{ count }}</span>
       </div>
+      <div class="test">hello this is a husky test 6</div>
     </div>
   </main>
 </template>
